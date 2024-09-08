@@ -1,5 +1,10 @@
 # Project: Automated Regression Testing Solution for Fictitious SaaS Cybersecurity Company (CyberSIEM Ltd.)
 
+Goal: To execrise Software Project Management knowledge including SDLC methodologies (Feature Driven Development with Agile/SCRUM), Project Planning (MS project), Change Management, Release Management, and Testing/Bug Management. 
+
+---
+## Table of Conetents:
+---
 ## Fictitious Company (CyberSIEM Ltd.) Overview
 
 **Company**: CyberSIEM Ltd.  
