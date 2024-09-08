@@ -4,7 +4,7 @@ Goal: To execrise Software Project Management knowledge including SDLC methodolo
 
 ---
 ## Table of Conetents:
-1. [Full_Executive_Presentation](./Full_Executive_Presentation/CyberSIEM_Final_Presentation.pptx) : Deck containing all materials listed after 5minute_Project_Pitch
+1. [Full_Executive_Presentation](./Full_Executive_Presentation/CyberSIEM_Final_Presentation.pptx) : Deck containing all materials listed after 5minute_Project_Pitch. If you want to see all materials at once, download this deck.
 2. [5minute_Project_Pitch](./5minute_Project_Pitch/CyberSIEM_Pitch_(IN_CLASS).pptx) : Winning deck for in-class pitch competition. Winner was selected by a tribunal of industry professionals including: Vijay Krish (Head of Business Strategy & Operations @ ServiceNow), Silvia Ahmed (VP of Engineering @ Veritas), Sutanu Ghosh (Director of Program Management & PMO @ VMWare)
 3. [Personas & User Stories](./Personas_&_UserStories/Personas&UserStories.pptx)
 4. [SDLC Model](./SDLC_model/SDLC_model.pptx)
