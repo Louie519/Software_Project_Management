@@ -4,6 +4,20 @@ Goal: To execrise Software Project Management knowledge including SDLC methodolo
 
 ---
 ## Table of Conetents:
+1. [Full Executive Presentation](./Full_Executive_Presentation/CyberSIEM-Final Presentation.pptx)
+2. [5-Minute Project Pitch](./5minute_Project_Pitch/CyberSIEM Pitch (IN-CLASS).pptx)
+3. [Personas & User Stories](./Personas_&_UserStories/Personas&UserStories.pptx)
+4. [SDLC Model](./SDLC_model/SDLC_model.pptx)
+5. [Product Roadmap & Sprint Planning](./Product_Roadmap_&_Sprint_Planning/Product_Roadmap_&_Sprint_Planning.pptx)
+6. [ROV & ROI](./ROV_ROI/ROV_ROI.pptx)
+7. [Risk Analysis & Management](./Risk_Analysis_&_Management/Risk_Analysis_&_Management.pptx)
+8. [Testing & Bug Management](./Testing_&_BugManagement/Testing_&_BugManagement.pptx)
+9. [Architecture & Design](./Architecture_&_Design/Architecture_&_Design.pptx)
+10. [Release Management](./Release_Management/Release_Management.pptx)
+11. [Change Management & Project Plan](./ChangeManagement_&_ProjectPlan/ChangeManagement_&_ProjectPlan.pptx)
+12. [Project Sprints & Retrospective](./Project_Sprints&Retrospective/Project_Sprints&Retrospective.pptx)
+
+
 ---
 ## Fictitious Company (CyberSIEM Ltd.) Overview
 
