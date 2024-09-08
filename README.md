@@ -4,8 +4,8 @@ Goal: To execrise Software Project Management knowledge including SDLC methodolo
 
 ---
 ## Table of Conetents:
-1. [Full Executive Presentation](./Full_Executive_Presentation/CyberSIEM-Final Presentation.pptx)
-2. [5-Minute Project Pitch](./5minute_Project_Pitch/CyberSIEM Pitch (IN-CLASS).pptx)
+1. [Full_Executive_Presentation](./Full_Executive_Presentation/CyberSIEM-Final Presentation.pptx)
+2. [5minute_Project_Pitch](./5minute_Project_Pitch/CyberSIEM Pitch (IN-CLASS).pptx)
 3. [Personas & User Stories](./Personas_&_UserStories/Personas&UserStories.pptx)
 4. [SDLC Model](./SDLC_model/SDLC_model.pptx)
 5. [Product Roadmap & Sprint Planning](./Product_Roadmap_&_Sprint_Planning/Product_Roadmap_&_Sprint_Planning.pptx)
