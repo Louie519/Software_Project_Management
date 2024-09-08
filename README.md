@@ -100,17 +100,3 @@ To address these challenges, CyberSIEM plans to integrate **Selenium**, an open-
    - Track and analyze test execution time.
    - Generate reports for faster bug identification and fix.
 
----
-
-## Future Goals
-
-By implementing Selenium automation, CyberSIEM aims to:
-- **Improve product quality**: Faster bug detection enhances the reliability of their SIEM solution.
-- **Shorten release cycles**: Reducing testing time allows for quicker product updates and hotfixes.
-- **Maintain competitiveness**: A more efficient release process enables CyberSIEM to keep pace with rapidly evolving cybersecurity threats.
-
----
-
-## Contact
-
-For more information or collaboration inquiries, please contact the Project Nirvana Team at [email@example.com].
